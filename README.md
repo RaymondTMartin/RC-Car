@@ -1,6 +1,6 @@
 # STM32 Smart Car with Multifunctional Development Board
 
-![](https://github.com/YahboomTechnology/STM32-BoardCar/blob/main/STM32_Car_Yahboom.jpg)
+![](https://github.com/RaymondTMartin/RC-Car/blob/master/rc-car.JPG)
 
 # Introduction
 I'm building up this STM32 Car from Yahboom and seeing how far I can take it. I'll update this repository as I make progress. 
